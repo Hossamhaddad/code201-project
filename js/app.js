@@ -1,6 +1,7 @@
 'use strict';
 var score = 0;
 var team = prompt('my favorite football team is RealMadrid  ? ');
+function quiz(){
 if (team.toLowerCase() === 'yes' || team.toLowerCase() === 'y') {
   alert('lol not a chance barcelona is the best ');
 } else if (team.toLowerCase() === 'no' || team.toLowerCase() === 'n') {
@@ -99,3 +100,4 @@ alert('your score is :' + score+'/7');
 // alert('my favorite sport is swimming ^_^  ');
 // alert('my favorite series is blacklist  ');
 // alert('my favorite fruit is mango');
+}
