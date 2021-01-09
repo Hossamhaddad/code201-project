@@ -1,8 +1,17 @@
 header{
     text-align: center;
-    color: black
-}
-body{
-    background-color: rgb(95, 95, 102);
     color: black;
+    background-color: #23C9FF; 
+   padding: 20px;
+}
+body{ 
+background-color:#7cccfe;
+margin:0px ;
+padding: 0px;
+}
+footer{
+    background-color:#CCD5FF;
+    clear: both;
+    margin-bottom: 0px;
+    padding: 10px;
 }
